@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://jaykantrprj.github.io/">
     <img src="https://img.shields.io/badge/Website-jaykant-red?style=flat-square">
 </a>  
-<a href="https://github.com/jaykantrprj/Resume.pdf">
+<a href="https://jaykantrprj.github.io/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/jaykant-prajapati-a16917124/">
