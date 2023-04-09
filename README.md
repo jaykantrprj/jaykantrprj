@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 </a>
 <br/>
 
-<a href="https://github.com/jaykantrprj">
-    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
+<a href="https://jaykantrprj.github.io/">
+    <img src="https://img.shields.io/badge/Website-jaykant-red?style=flat-square">
 </a>  
 <a href="https://github.com/jaykantrprj/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
