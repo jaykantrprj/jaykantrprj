@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <a href="https://github.com/jaykantrprj">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jaykant+Prajapati;M Tech in IT, IIEST Shibpur+%7C+Learner+%7C+Software+Engineer;AI+%7C+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jaykant+Prajapati;M Tech in IT, IIEST Shibpur+%7C+Learner+%7C+Developer;AI+%7C+ML" alt="Typing SVG" />
 </a>
 <br/>
 
